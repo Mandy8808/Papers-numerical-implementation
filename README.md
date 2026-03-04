@@ -1,6 +1,12 @@
 # Numerical Implementation:
 In this repository we present a set of Python modules, Jupyter and Mathematica notebook used to study the stability of scalar-compact objects. The numerical implementations and algorithms correspond to the results reported in the papers:
 
+# [Linear stability of nonrelativistic Proca stars](https://arxiv.org/abs/2512.04376)
+
+The repository **LSnrPS** consists of a module file *Modules.py* and differents Python files and Jupyter notebooks.
+
+Note: We don’t include in this repository all our numerical data profiles. However, this could be solicited by email or computed using the present notebooks.
+
 # [Compact stars in Einstein-scalar–Gauss–Bonnet gravity: regular and divergent scalar field configurations](https://arxiv.org/pdf/2508.13273)
 
 The repository **CstarsEinstein_scalarGB_gravity** consists of a module file *Equations.py* and differents Python and W. Mathematica notebooks.
